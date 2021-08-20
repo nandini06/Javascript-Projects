@@ -1,0 +1,15 @@
+.container {
+   height: 200 px;
+   width : 100 px;
+   border: 1px solid black;
+   margin-top: 10px;
+}
+.tab{
+   width : 80px;
+}
+.selected-tab{
+   background-color: lightgray;
+}
+.deselected-tab{
+   background-color: darkgray;
+}

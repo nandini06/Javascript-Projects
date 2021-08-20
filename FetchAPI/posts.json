@@ -1,0 +1,16 @@
+[
+   {
+      "title" : "Post 1",
+      "body" : "Hi"
+   },
+
+   {
+      "title" : "Post 2",
+      "body" : "Hey"
+   },
+
+   {
+      "title" : "Post 3",
+      "body" : "Hello"
+   }
+]

@@ -1,0 +1,20 @@
+[
+   {
+      "id":1,
+      "name":"Jake Paralta",
+      "company":"NYPD",
+      "phone":"1111111111"
+   },
+   {
+      "id":2,
+      "name":"Mike Ross",
+      "company":"Spector & Pearson",
+      "phone":"1111111111"
+   },
+   {
+      "id":3,
+      "name":"Harvey Spector",
+      "company":"Pearson & Lint",
+      "phone":"1111111111"
+   }
+]
